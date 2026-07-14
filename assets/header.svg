@@ -1,0 +1,128 @@
+<svg viewBox="0 0 830 185" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+@keyframes g1{0%,87%,100%{opacity:0;transform:translate(0,0)}88%{opacity:.8;transform:translate(-5px,0)}89.5%{opacity:.55;transform:translate(5px,0)}91%{opacity:0;transform:translate(0,0)}}
+@keyframes g2{0%,83%,100%{opacity:0;transform:translate(0,0)}84%{opacity:.65;transform:translate(4px,-1px)}85.5%{opacity:.4;transform:translate(-4px,1px)}87%{opacity:0;transform:translate(0,0)}}
+@keyframes g3{0%,92%,100%{opacity:0;transform:translate(0,0)}93%{opacity:.5;transform:translate(-3px,2px)}94%{opacity:0;transform:translate(0,0)}}
+@keyframes bk{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes r0{0%{transform:translate(0,-95px);opacity:0}7%{opacity:.5}93%{opacity:.06}100%{transform:translate(0,195px);opacity:0}}
+@keyframes r1{0%{transform:translate(0,-95px);opacity:0}7%{opacity:.32}93%{opacity:.04}100%{transform:translate(0,195px);opacity:0}}
+@keyframes r2{0%{transform:translate(0,-95px);opacity:0}7%{opacity:.42}93%{opacity:.05}100%{transform:translate(0,195px);opacity:0}}
+@keyframes fl{0%,95%,100%{opacity:1}96.5%{opacity:.7}97.5%{opacity:1}98.5%{opacity:.82}99%{opacity:1}}
+@keyframes dot{0%,49%{fill:#EDE4C8}50%,100%{fill:#0D1117}}
+</style>
+<pattern id="pg" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+  <rect x="0" y="0" width="1.2" height="1.2" fill="#16192A" opacity="1"/>
+</pattern>
+</defs>
+
+<!-- BG -->
+<rect width="830" height="185" fill="#0D1117"/>
+<rect width="830" height="185" fill="url(#pg)"/>
+
+<!-- Subtle horizontal scan lines -->
+<rect y="0" width="830" height="185" fill="none" stroke="#11141E" stroke-width="0"/>
+<line x1="0" y1="45" x2="830" y2="45" stroke="#12151F" stroke-width="0.5"/>
+<line x1="0" y1="90" x2="830" y2="90" stroke="#12151F" stroke-width="0.5"/>
+<line x1="0" y1="135" x2="830" y2="135" stroke="#12151F" stroke-width="0.5"/>
+
+<!-- Corner brackets TL -->
+<path d="M14,42 L14,14 L42,14" stroke="#EDE4C8" stroke-width="1.8" fill="none" opacity="0.45"/>
+<!-- Corner brackets TR -->
+<path d="M816,42 L816,14 L788,14" stroke="#EDE4C8" stroke-width="1.8" fill="none" opacity="0.45"/>
+<!-- Corner brackets BL -->
+<path d="M14,143 L14,171 L42,171" stroke="#EDE4C8" stroke-width="1.8" fill="none" opacity="0.45"/>
+<!-- Corner brackets BR -->
+<path d="M816,143 L816,171 L788,171" stroke="#EDE4C8" stroke-width="1.8" fill="none" opacity="0.45"/>
+
+<!-- Corner pixel dots -->
+<rect x="13" y="13" width="3" height="3" fill="#EDE4C8" opacity="0.5" style="animation:dot 1.2s step-end infinite"/>
+<rect x="814" y="13" width="3" height="3" fill="#EDE4C8" opacity="0.5" style="animation:dot 1.2s step-end infinite 0.6s"/>
+<rect x="13" y="169" width="3" height="3" fill="#EDE4C8" opacity="0.5" style="animation:dot 1.2s step-end infinite 0.3s"/>
+<rect x="814" y="169" width="3" height="3" fill="#EDE4C8" opacity="0.5" style="animation:dot 1.2s step-end infinite 0.9s"/>
+
+<!-- Corner text labels -->
+<text x="20" y="29" font-family="'Courier New',monospace" font-size="9" fill="#EDE4C8" opacity="0.25">INIT_PROFILE.SH</text>
+<text x="726" y="29" font-family="'Courier New',monospace" font-size="9" fill="#EDE4C8" opacity="0.25">BUILD:2026.07</text>
+<text x="20" y="165" font-family="'Courier New',monospace" font-size="9" fill="#EDE4C8" opacity="0.2">STATUS: ONLINE</text>
+<text x="740" y="165" font-family="'Courier New',monospace" font-size="9" fill="#EDE4C8" opacity="0.2">Chennai, IN</text>
+
+<!-- ====== PIXEL RAIN — LEFT SIDE ====== -->
+<g font-family="'Courier New',monospace" font-size="11" fill="#EDE4C8">
+  <g transform="translate(24,0)" style="animation:r0 3.1s linear infinite">
+    <text y="14">1</text><text y="27">0</text><text y="40">1</text><text y="53">0</text><text y="66">1</text><text y="79">1</text><text y="92">0</text>
+  </g>
+  <g transform="translate(48,0)" style="animation:r1 3.9s linear infinite 1.2s">
+    <text y="14">A</text><text y="27">F</text><text y="40">3</text><text y="53">0</text><text y="66">C</text><text y="79">9</text>
+  </g>
+  <g transform="translate(70,0)" style="animation:r2 2.7s linear infinite 0.4s">
+    <text y="14">0</text><text y="27">1</text><text y="40">0</text><text y="53">1</text><text y="66">1</text>
+  </g>
+  <g transform="translate(96,0)" style="animation:r0 4.3s linear infinite 2.1s">
+    <text y="14">E</text><text y="27">D</text><text y="40">E</text><text y="53">4</text><text y="66">C</text><text y="79">8</text>
+  </g>
+  <g transform="translate(120,0)" style="animation:r1 3.5s linear infinite 0.7s">
+    <text y="14">1</text><text y="27">1</text><text y="40">0</text><text y="53">0</text><text y="66">1</text><text y="79">0</text>
+  </g>
+  <g transform="translate(148,0)" style="animation:r2 2.9s linear infinite 3.1s">
+    <text y="14">B</text><text y="27">0</text><text y="40">1</text><text y="53">D</text><text y="66">F</text>
+  </g>
+  <g transform="translate(174,0)" style="animation:r0 4.0s linear infinite 1.8s">
+    <text y="14">0</text><text y="27">A</text><text y="40">1</text><text y="53">1</text>
+  </g>
+
+  <!-- ====== PIXEL RAIN — RIGHT SIDE ====== -->
+  <g transform="translate(648,0)" style="animation:r1 3.3s linear infinite 1.5s">
+    <text y="14">F</text><text y="27">F</text><text y="40">0</text><text y="53">D</text><text y="66">1</text><text y="79">7</text>
+  </g>
+  <g transform="translate(672,0)" style="animation:r0 2.5s linear infinite 0.5s">
+    <text y="14">0</text><text y="27">1</text><text y="40">1</text><text y="53">0</text><text y="66">1</text><text y="79">0</text>
+  </g>
+  <g transform="translate(698,0)" style="animation:r2 4.1s linear infinite 2.6s">
+    <text y="14">7</text><text y="27">A</text><text y="40">5</text><text y="53">B</text><text y="66">C</text>
+  </g>
+  <g transform="translate(724,0)" style="animation:r1 3.7s linear infinite 1.9s">
+    <text y="14">0</text><text y="27">D</text><text y="40">1</text><text y="53">1</text><text y="66">7</text>
+  </g>
+  <g transform="translate(750,0)" style="animation:r0 2.8s linear infinite 0.2s">
+    <text y="14">1</text><text y="27">0</text><text y="40">0</text><text y="53">1</text><text y="66">1</text><text y="79">0</text>
+  </g>
+  <g transform="translate(778,0)" style="animation:r2 3.6s linear infinite 3.4s">
+    <text y="14">C</text><text y="27">A</text><text y="40">F</text><text y="53">E</text>
+  </g>
+  <g transform="translate(804,0)" style="animation:r1 4.2s linear infinite 1.0s">
+    <text y="14">0</text><text y="27">1</text><text y="40">1</text><text y="53">0</text>
+  </g>
+</g>
+
+<!-- ====== MAIN TITLE ====== -->
+<!-- Base layer (cream) -->
+<text x="415" y="103" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="47" font-weight="bold"
+  fill="#EDE4C8" style="animation:fl 9s ease-in-out infinite">YASWANTH K B</text>
+
+<!-- Glitch layer 1 (warm red) -->
+<text x="415" y="103" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="47" font-weight="bold"
+  fill="#FF6B6B" opacity="0" style="animation:g1 6.5s ease-in-out infinite">YASWANTH K B</text>
+
+<!-- Glitch layer 2 (teal) -->
+<text x="415" y="103" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="47" font-weight="bold"
+  fill="#4ECDC4" opacity="0" style="animation:g2 6.5s ease-in-out infinite 0.35s">YASWANTH K B</text>
+
+<!-- Glitch layer 3 (white flash) -->
+<text x="415" y="103" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="47" font-weight="bold"
+  fill="#FFFFFF" opacity="0" style="animation:g3 6.5s ease-in-out infinite 0.7s">YASWANTH K B</text>
+
+<!-- Subtitle -->
+<text x="415" y="140" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="12"
+  fill="#8B7D6B" letter-spacing="4">FULL STACK DEV · AI BUILDER · WEB3 EXPLORER</text>
+
+<!-- Blinking cursor -->
+<rect x="709" y="127" width="8" height="2" fill="#EDE4C8" opacity="0.45"
+  style="animation:bk 1s step-end infinite"/>
+
+</svg>
