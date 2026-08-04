@@ -4,7 +4,7 @@
 
   <!-- comment line -->
   <text x="40" y="45" font-family="monospace" font-size="13"
-        fill="#6e7681">// yaswanthme007 · github profile</text>
+        fill="#e6edf3">// yaswanthme007 · github profile</text>
 
   <!-- YASWANTH outline text -->
   <text x="40" y="110" font-family="monospace" font-size="58"
@@ -12,7 +12,7 @@
         fill="transparent" stroke="#58a6ff" stroke-width="1.5">YASWANTH</text>
 
   <!-- roles line -->
-  <text x="40" y="145" font-family="monospace" font-size="14" fill="#a371f7">
+  <text x="40" y="145" font-family="monospace" font-size="14" fill="#e6edf3">
     <tspan>&gt; Full Stack Dev</tspan>
     <tspan fill="#e6edf3"> · </tspan>
     <tspan>&gt; AI Builder</tspan>
