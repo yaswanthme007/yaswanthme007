@@ -6,7 +6,7 @@
 
 ## `> whoami`
 
-```console
+```
 Name    : Yaswanth K B
 Location: Chennai, India  🇮🇳
 Role    : Full Stack Developer & AI Builder
