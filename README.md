@@ -82,48 +82,6 @@ Web     : yaswanthkb.dev
 
 <img src="assets/divider.svg" width="100%"/>
 
-## `> git log --stats`
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yaswanthme007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthme007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=yaswanthme007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `> achievement --list`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanthme007&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
-<br/>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `> cat activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthme007&bg_color=0d1117&color=58a6ff&line=a371f7&point=58a6ff&area=true&area_color=a371f7&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="assets/divider.svg" width="100%"/>
-
 ## `> snake --contribute`
 
 <div align="center">
