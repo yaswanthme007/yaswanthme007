@@ -5,23 +5,23 @@
 @keyframes sweep2{0%{transform:translate(-120px,0)}100%{transform:translate(950px,0)}}
 </style>
 <linearGradient id="p1" x1="0" x2="1" y1="0" y2="0">
-  <stop offset="0%" stop-color="#0D1117"/>
-  <stop offset="35%" stop-color="#EDE4C8" stop-opacity="0.85"/>
-  <stop offset="65%" stop-color="#EDE4C8" stop-opacity="0.85"/>
-  <stop offset="100%" stop-color="#0D1117"/>
+  <stop offset="0%" stop-color="#0d1117"/>
+  <stop offset="35%" stop-color="#58a6ff" stop-opacity="0.85"/>
+  <stop offset="65%" stop-color="#58a6ff" stop-opacity="0.85"/>
+  <stop offset="100%" stop-color="#0d1117"/>
 </linearGradient>
 <linearGradient id="p2" x1="0" x2="1" y1="0" y2="0">
-  <stop offset="0%" stop-color="#0D1117"/>
-  <stop offset="40%" stop-color="#C4B49C" stop-opacity="0.5"/>
-  <stop offset="60%" stop-color="#C4B49C" stop-opacity="0.5"/>
-  <stop offset="100%" stop-color="#0D1117"/>
+  <stop offset="0%" stop-color="#0d1117"/>
+  <stop offset="40%" stop-color="#a371f7" stop-opacity="0.5"/>
+  <stop offset="60%" stop-color="#a371f7" stop-opacity="0.5"/>
+  <stop offset="100%" stop-color="#0d1117"/>
 </linearGradient>
 <pattern id="dp" x="0" y="0" width="20" height="18" patternUnits="userSpaceOnUse">
   <rect x="9" y="8" width="2" height="2" fill="#22263A"/>
 </pattern>
 </defs>
 
-<rect width="830" height="18" fill="#0D1117"/>
+<rect width="830" height="18" fill="#0d1117"/>
 <!-- Dot pattern base -->
 <rect width="830" height="18" fill="url(#dp)"/>
 <!-- Center line -->
