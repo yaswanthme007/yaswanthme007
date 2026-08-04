@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Yaswanth K B"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=0&pause=0&color=6E7681&center=true&vCenter=true&width=600&height=20&lines=%2F%2F+yaswanthme007+%C2%B7+github+profile" alt="comment"/>
+
+<h1 align="center" style="font-size:42px; border:none;">
+<code style="-webkit-text-stroke:1.5px #58a6ff; color:transparent;">YASWANTH</code>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=A371F7&center=true&vCenter=true&width=600&height=30&lines=%3E+Full+Stack+Developer;%3E+AI+Builder;%3E+Web3+Explorer;%3E+Chennai%2C+India)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&width=680&lines=%3E+init+yaswanth.profile%28%29;Building+AI-Powered+Apps+%F0%9F%A4%96;%3E+stack%3A+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;RAG+Chatbots+%26+AI+Orchestration+%F0%9F%A7%A0;%3E+web3+%2B+blockchain+explorer+%E2%9B%93;Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yaswanthme007&color=58a6ff&style=flat-square&label=profile+views)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/yaswanthme007?color=58a6ff&style=flat-square&logo=github&label=followers)
+![Contributions](https://img.shields.io/badge/Contributions-389-58a6ff?style=flat-square&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Repos-39-a371f7?style=flat-square&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/Followers-11-3fb950?style=flat-square&labelColor=0d1117)
 
 </div>
 
