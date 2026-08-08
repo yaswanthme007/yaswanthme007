@@ -1,74 +1,145 @@
 <div align="center">
-  <img src="./header.svg" alt="Yaswanth K B - GitHub Profile" width="100%"/>
+  <img src="./header.svg" alt="Yaswanth K B" width="100%"/>
 </div>
 
----
+<br/><br/>
 
-## `> whoami`
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `> whoami`
+
+```yaml
+Name     : Yaswanth K B
+Handle   : yaswanthme007
+Role     : Full Stack Dev & AI Builder
+Focus    : AI Orchestration · RAG · Web3
+Location : Chennai, India 🇮🇳
+Mail     : yaswanthkb2907@gmail.com
+Web      : yaswanthkb.dev
+Status   : Building cool stuff 🚀
 ```
-Name    : Yaswanth K B
-Location: Chennai, India  🇮🇳
-Role    : Full Stack Developer & AI Builder
-Focus   : AI Orchestration · RAG Systems · Web3
-Mail    : yaswanthkb2907@gmail.com
-Web     : yaswanthkb.dev
+
+</td>
+<td width="50%" valign="top">
+
+### `> current --build`
+
+```bash
+$ git log --oneline -5
+
+🤖 NEXUS      # AI Agent Orchestration Platform
+📓 NotesRoom  # Collaborative AI notes platform  
+💸 PayRide    # Web3 x402 payment integration
+🧠 RAG Chat   # Production RAG chatbot (Groq)
+🔔 Hackathon  # Deadline tracker + email alerts
 ```
 
-- 🔭 Currently building **AI-powered apps & RAG chatbots**
-- 🌱 Exploring **Web3, Blockchain & multi-chain integrations**
-- 💡 Passionate about **AI Orchestration Platforms**
-- ⚡ Stack: **Next.js · Node.js · TypeScript · Python**
-- 🤖 AI: **LangChain · PyTorch · Groq · Streamlit**
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-## `> ls tech/`
+### `> git log --stats`
 
 <div align="center">
 
-**[ Languages ]**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaswanthme007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&ring_color=58a6ff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthme007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8"/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark&perline=5"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yaswanthme007&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=8b949e"/>
+</div>
 
 <br/>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+### `> ls ./tech-stack`
+
+<div align="center">
 
 **[ Frontend ]**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark&perline=5"/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
+**[ Backend & Infra ]**
 
-**[ Backend & Databases ]**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis&theme=dark&perline=6"/>
-
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **[ AI / ML ]**
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-a371f7?style=flat-square&logoColor=0d1117&logo=langchain"/>
-<img src="https://img.shields.io/badge/Groq-58a6ff?style=flat-square&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/Streamlit-a371f7?style=flat-square&logo=streamlit&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/RAG_Systems-58a6ff?style=flat-square&logoColor=0d1117"/>
-
-<br/>
-
-**[ DevOps & Tools ]**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=5"/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-## `> snake --contribute`
+### `> cat projects.json`
+
+```json
+{
+  "projects": [
+    {
+      "name": "🤖 NEXUS — AI Agent Orchestration",
+      "desc": "Drag-and-drop multi-agent pipeline builder with real-time execution",
+      "tech": ["TypeScript", "Next.js", "WebSockets"],
+      "url" : "github.com/yaswanthme007/agent-fabric-ai"
+    },
+    {
+      "name": "📓 NotesRoom — Collaborative AI Notes",
+      "desc": "Join rooms with a code, access notes, chat with AI about them",
+      "tech": ["TypeScript", "RAG", "Sockets"],
+      "url" : "github.com/yaswanthme007/notesroom"
+    },
+    {
+      "name": "💸 PayRide — Web3 Payment Integration",
+      "desc": "x402 payments on GOAT Network, multi-chain order workflows",
+      "tech": ["TypeScript", "Web3", "GOAT"],
+      "url" : "github.com/yaswanthme007/payride"
+    },
+    {
+      "name": "🧠 Chatbot-RAG — PDF AI Assistant",
+      "desc": "Upload PDFs, get AI answers grounded in your documents",
+      "tech": ["Python", "Groq", "LangChain", "Streamlit"],
+      "url" : "github.com/yaswanthme007/Chatbot-RAG"
+    },
+    {
+      "name": "🔔 Hackathon Reminder — Deadline Tracker",
+      "desc": "Dashboard with countdown timers + automated email reminders",
+      "tech": ["JavaScript", "Node.js", "Email API"],
+      "url" : "github.com/yaswanthme007/Hackathon-reminder"
+    }
+  ]
+}
+```
+
+<br/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
+### `> ./snake --eat-contributions`
 
 <div align="center">
 
@@ -82,8 +153,17 @@ Web     : yaswanthkb.dev
 
 <br/>
 
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
 <div align="center">
-<img src="assets/divider.svg" width="100%"/>
-<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yaswanthme007&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/yaswanthme007?style=flat-square&color=a371f7&label=Followers)](https://github.com/yaswanthme007)
+
+</div>
+
+---
+
+<div align="center">
 <code>crafted with ▓▒░ and caffeine · yaswanth k b · 2026</code>
 </div>
